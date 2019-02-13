@@ -1,6 +1,7 @@
 import React from 'react';
 import "./Calculator.css";
-import 'rc-slider/assets/index.css';
+import "./slider.css";
+/* import 'rc-slider/assets/index.css'; */
 import Slider from 'rc-slider';
 
 class Calculator extends React.Component {
