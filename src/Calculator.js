@@ -1,6 +1,6 @@
 import React from 'react';
-import "./Calculator.css";
-import "./slider.css";
+import "./css/Calculator.css";
+import "./css/slider.css";
 /* import 'rc-slider/assets/index.css'; */
 import Slider from 'rc-slider';
 

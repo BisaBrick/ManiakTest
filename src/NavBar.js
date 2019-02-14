@@ -1,5 +1,5 @@
 import React from 'react';
-import './NavBar.css'
+import './css/NavBar.css'
 var Logoicon = require('./static/img/bellotero.svg');
 
 
@@ -31,6 +31,7 @@ const NavBar = () => {
                     </li>
                 </ul>
             </div>
+            <div class="pageLocator"></div>
         </nav>
 
     );

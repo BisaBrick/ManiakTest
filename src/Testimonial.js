@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Testimonial.css";
+import "./css/Testimonial.css";
 import PostTestimonials from './PostTestimonials';
 var arrow = require('./static/img/arrow.svg');
 
